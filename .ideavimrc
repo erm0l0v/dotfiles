@@ -1,0 +1,17 @@
+set backspace=2
+
+let mapleader = ","
+
+set iskeyword+=-
+
+set clipboard=unnamed
+
+set ignorecase
+
+set smartcase
+
+set incsearch
+
+map <Leader>n :set rnu!<CR>
+
+map L :set rnu!<CR>

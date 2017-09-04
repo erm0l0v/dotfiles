@@ -1,0 +1,9 @@
+.idea
+.ropeproject
+.tern-project
+.venv
+ermolov.py
+coursetalk.pem
+.deploy.sh
+docker-compose.override.yml
+stones.prof
