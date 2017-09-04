@@ -1,5 +1,8 @@
 #!/bin/bash
 
+mkdir -p bash_helpers/
+cp -R ~/bash_helpers/ bash_helpers/
+
 cat ~/.profile | grep -v AWS > .profile
 cp ~/.ideavimrc .ideavimrc
 cp ~/.vimrc .vimrc
